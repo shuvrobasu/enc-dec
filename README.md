@@ -37,10 +37,10 @@ This tool provides a custom implementation of the Caesar Cipher encryption algor
 1. Ensure all required dependencies are in the same directory.
 2. Execute the script using a Python interpreter.
 
-```bash
+bash
 python caesar_cipher.py
 
-## How to Run
+## License 
 
 This tool is released under the MIT License - see the LICENSE file for details.
 
