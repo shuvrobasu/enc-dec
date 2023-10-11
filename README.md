@@ -40,9 +40,11 @@ This tool provides a custom implementation of the Caesar Cipher encryption algor
 ```bash
 python caesar_cipher.py
 
+## License
+This tool is released under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 Developed by Shuvro Basu
 
-Support
+## Support
 For questions or issues, please contact via GitHub.
