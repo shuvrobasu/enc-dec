@@ -40,3 +40,9 @@ This tool provides a custom implementation of the Caesar Cipher encryption algor
 ```bash
 python caesar_cipher.py
 
+
+Acknowledgements
+Developed by Shuvro Basu
+
+Support
+For questions or issues, please contact via GitHub.
