@@ -15,9 +15,9 @@ This tool provides a custom implementation of the Caesar Cipher encryption algor
 ## Version History
 
 - **Version 1.0**: Initial implementation of Caesar Cipher Encryption.
-- **Version 1.1**: Added functionality to show files with serial numbers.
+- **Version 1.1**: Added functionality to show files with serial numbers for user to select a file to process.
 - **Version 1.2**: Added chunk size functionality for faster processing.
-- **Version 1.3**: Added file deletion functionality and improved user prompts.
+- **Version 1.3**: Added file deletion functionality and improved user prompts. ## This is a hidden featurea ## and accessed by typing R at the first prompt.
 
 ## Usage
 
