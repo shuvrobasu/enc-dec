@@ -22,7 +22,7 @@ This tool provides a custom implementation of the Caesar Cipher encryption algor
 ## Usage
 
 1. Run the script.
-2. Choose between encryption or decryption.
+2. Choose between encryption or decryption (`E`) or (`D`).
 3. Select file input (`F`) or text input (`T`).
 4. Follow the on-screen prompts to encrypt/decrypt files or input text.
 
