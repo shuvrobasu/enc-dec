@@ -1,4 +1,4 @@
-# Modified Caesar Cipher Encryption Tool
+# Modified Ceasar Cipher Encryption Tool
 
 ## Overview
 
